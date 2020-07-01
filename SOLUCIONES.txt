@@ -1,0 +1,8 @@
+SI NO SE MUESTRA EL DIAGRAMA CORRER ESTE COMANDO:
+sudo apt-get install python3-tk
+
+INSTALACION:
+DEBES INSTALAR TODOS LOS MODULOS DE LAS IMPORTACIONES
+
+INFO:
+https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_quick_guide.htm
